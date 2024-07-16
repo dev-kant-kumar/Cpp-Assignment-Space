@@ -1,0 +1,1 @@
+// 11. Write a C++ program to print the results of the specified operations.

@@ -1,0 +1,1 @@
+// 10. Write a C++ program to format the output.

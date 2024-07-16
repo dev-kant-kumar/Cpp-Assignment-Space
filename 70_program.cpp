@@ -1,0 +1,1 @@
+// 70. Write a C++ program to replace all the lower-case letters in a given string with the corresponding capital letters.

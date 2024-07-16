@@ -1,0 +1,1 @@
+// 36. Write a program in C++ to test Type Casting.

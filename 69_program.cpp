@@ -1,0 +1,1 @@
+// 69. For n = 10, write a C++ program that reads the integer n and prints its factorial.

@@ -1,0 +1,1 @@
+// 40. Write a C++ program to print the area and perimeter of a rectangle.

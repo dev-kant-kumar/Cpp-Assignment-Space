@@ -1,4 +1,4 @@
-// 5. Write a program in C++ program to check the upper and lower limits of integers.
+// 5. Write a C++ program to check the upper and lower limits of integers.
 
 #include <iostream>
 #include <cmath>

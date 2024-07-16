@@ -1,0 +1,1 @@
+// 31. Write a C++ program to input a single - digit number and print it in a rectangular form of 4 columns and 6 rows.

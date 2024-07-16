@@ -1,0 +1,1 @@
+// 52. Write a C++ program to enter two angles of a triangle and find the third angle.

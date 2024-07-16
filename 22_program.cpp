@@ -1,0 +1,1 @@
+// 22. Write a C++ program to find the third angle of a triangle.

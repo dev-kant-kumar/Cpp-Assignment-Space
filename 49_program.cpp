@@ -1,0 +1,1 @@
+// 49. Write a C++ program to print the code (ASCII code / Unicode code etc.) of a given character.

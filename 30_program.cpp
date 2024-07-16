@@ -1,0 +1,1 @@
+// 30. Write a C++ program to compute the total and average of four numbers.

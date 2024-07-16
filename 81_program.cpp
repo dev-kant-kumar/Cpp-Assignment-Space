@@ -1,0 +1,2 @@
+// 81. Write a C++ program that replaces all the words "dog" with "cat".
+// Sample Text: The quick brown fox jumps over the lazy dog. You can assume that the number of characters in a text is less than or equal to 1000.

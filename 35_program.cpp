@@ -1,0 +1,1 @@
+// 35. Write a program in C++ to compute the specified expressions and print the output.

@@ -1,0 +1,1 @@
+// 12. Write a C++ program to add two numbers and accept them from the keyboard.

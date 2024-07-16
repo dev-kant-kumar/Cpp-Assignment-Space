@@ -1,0 +1,1 @@
+// 67. Write a C++ program that prints the central coordinate and the radius of a circumscribed circle of a triangle. This circle is created from three points on the plane surface.

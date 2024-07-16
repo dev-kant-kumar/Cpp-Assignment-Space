@@ -1,0 +1,1 @@
+// 65. Write a C++ program to check whether a given length of three sides forms a right triangle.

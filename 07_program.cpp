@@ -1,0 +1,1 @@
+// 7. Write a C++ program that displays mixed data types and arithmetic operations.

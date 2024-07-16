@@ -1,4 +1,4 @@
-// 3. Write a program in C++ program to find the size of fundamental data types.
+// 3. Write a C++ program to find the size of fundamental data types.
 
 #include <iostream>
 using namespace std;
